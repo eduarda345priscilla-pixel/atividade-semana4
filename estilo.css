@@ -118,3 +118,19 @@
     font-style: oblique;
     font-size: small;
 }
+
+.restaurantes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top:35px ;
+}
+
+.restaurantes h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.restaurantes span{
+    color: rgb(206, 46, 46);
+}
