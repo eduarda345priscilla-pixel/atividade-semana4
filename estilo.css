@@ -134,3 +134,44 @@
 .restaurantes span{
     color: rgb(206, 46, 46);
 }
+.restaurante1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin: 50px;
+}
+.card1{
+    background-color: rgb(250, 250, 250);
+    margin: 30px;
+    padding: 15px;
+    border-radius: 20px;
+
+
+}
+.card1 img{
+    display: block;
+    width: 100%;
+    height: 100%;
+   max-width: 400px;
+   object-fit: cover;
+   border-radius: 12px;
+    
+}
+
+.card1 h2{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: rgb(10, 9, 9);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 15px;
+}
+
+.resta{
+    margin: 0px 10px;
+    color: rgb(206, 46, 46); 
+    font-style: oblique;
+}
