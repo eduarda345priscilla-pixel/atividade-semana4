@@ -6,12 +6,14 @@
 Nome: Priscilla Eduarda G. Costa
 Matrícula: 929102
 Proposta do projeto: Site de turismo e experiências
-Descrição: O projeto Turismo é um site desenvolvido para apresentar lugares turísticos, restaurantes e experiências. O objetivo é ajudar os usuários a descobrir novos destinos e compartilhar avaliações.
+Descrição: O projeto Turismo é um site desenvolvido para apresentar lugares turísticos, restaurantes e experiências.O site foi desenvolvido utilizando HTML e CSS puro,
+com layout responsivo para dispositivos desktop e mobile.
 
-## Wireframe do Projeto
 
-![Wireframe](img/wireframe.png)
+## Versão Desktop
 
-## Home Page
+![Versão Desktop](img/computador.png)
 
-![Home Page](img/homepage.png)
+## Versão Mobile
+
+![Versão Mobile](img/celular.png)
