@@ -238,3 +238,72 @@
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+@media (max-width: 768px) {
+
+    .cabecalho {
+        height: auto;
+        flex-direction: column;
+        gap: 10px;
+        padding: 15px;
+    }
+
+    .cabecalho img {
+        width: 150px;
+        margin: 0;
+        padding: 5px;
+    }
+
+    .menu {
+        gap: 10px;
+        margin: 0;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .menu a {
+        font-size: 14px;
+    }
+
+    .lugares {
+        flex-direction: column;
+    }
+
+    .card {
+        width: 90%;
+        margin: 15px;
+    }
+
+    .card img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .restaurante1 {
+        flex-direction: column;
+        margin: 20px;
+    }
+
+    .card1 {
+        width: 90%;
+        margin: 15px;
+    }
+
+    .card1 img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .formulario {
+        width: 90%;
+        height: auto;
+    }
+
+    .formulario label {
+        width: 100%;
+    }
+
+    .formulario textarea {
+        width: 100%;
+    }
+}
